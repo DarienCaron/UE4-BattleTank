@@ -1,0 +1,2 @@
+C:\Users\TingleOnCrack\Desktop\UdemyLearning\Unreal Engine\UE4-BattleTank\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\Definitions.BattleTank.h
+c:\users\tingleoncrack\desktop\udemylearning\unreal engine\ue4-battletank\battletank\source\battletank\BattleTank.h
