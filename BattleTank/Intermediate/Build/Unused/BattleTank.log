@@ -1,0 +1,13 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\TingleOnCrack\Desktop\UdemyLearning\Unreal Engine\UE4-BattleTank).
+  Parsing headers for BattleTankEditor
+    Running UnrealHeaderTool "C:\Users\TingleOnCrack\Desktop\UdemyLearning\Unreal Engine\UE4-BattleTank\BattleTank\BattleTank.uproject" "C:\Users\TingleOnCrack\Desktop\UdemyLearning\Unreal Engine\UE4-BattleTank\BattleTank\Intermediate\Build\Win64\BattleTankEditor\Development\BattleTankEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for BattleTankEditor in 38.6120734 seconds
+  Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 3 actions with 12 processes...
+    [1/3] UE4Editor-BattleTank-0004.lib
+       Creating library C:\Users\TingleOnCrack\Desktop\UdemyLearning\Unreal Engine\UE4-BattleTank\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\UE4Editor-BattleTank-0004.lib and object C:\Users\TingleOnCrack\Desktop\UdemyLearning\Unreal Engine\UE4-BattleTank\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\UE4Editor-BattleTank-0004.exp
+    [2/3] UE4Editor-BattleTank-0004.dll
+       Creating library C:\Users\TingleOnCrack\Desktop\UdemyLearning\Unreal Engine\UE4-BattleTank\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\UE4Editor-BattleTank-0004.suppressed.lib and object C:\Users\TingleOnCrack\Desktop\UdemyLearning\Unreal Engine\UE4-BattleTank\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\UE4Editor-BattleTank-0004.suppressed.exp
+    [3/3] BattleTankEditor.target
+  Total time in Parallel executor: 1.64 seconds
+  Total execution time: 40.99 seconds

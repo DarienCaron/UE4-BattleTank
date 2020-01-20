@@ -42,4 +42,28 @@
       <Filter>Source\BattleTank</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\BattleTank\TankPlayerController.h">
+      <Filter>Source\BattleTank</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\BattleTank\Public\Tank.h">
+      <Filter>Source\BattleTank\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\BattleTank\TankPlayerController.cpp">
+      <Filter>Source\BattleTank</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\BattleTank\Private\Tank.cpp">
+      <Filter>Source\BattleTank\Private</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source\BattleTank\Public">
+      <UniqueIdentifier>{4daebc55-bcc3-4e59-97f2-09a48240214e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\BattleTank\Private">
+      <UniqueIdentifier>{272a8cfc-db2f-4a51-a230-8a4e2ed9e554}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
 </Project>
