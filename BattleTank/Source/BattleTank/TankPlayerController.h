@@ -23,5 +23,28 @@ public:
 
 	virtual void BeginPlay() override;
 
+	virtual void Tick(float deltatime) override;
+
+
+private:
+
+	void AimTowardsCrosshair();
+
+	bool GetSightHitLocation(FVector& out_location) const;
+
+	bool GetLookDirection(FVector2D screenlocation, FVector& LookDirection) const;
+
+	bool GetLookHitVectorLocation(FVector lookDir, FVector& outHit) const;
+
+
+private:
+
+	UPROPERTY(EditAnywhere)
+	float CrosshairXLocation = 0.5f;
+	UPROPERTY(EditAnywhere)
+	float CrosshairYLocation = 0.3333f;
+
+	UPROPERTY(EditAnywhere)
+	float MaxShotRange = 100000000.0f;
 	
 };
