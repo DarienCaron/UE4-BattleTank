@@ -42,5 +42,19 @@ C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Public\VisualLo
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\VisualLoggerDebugSnapshotInterface.generated.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\AIController.generated.h
 c:\users\tingleoncrack\desktop\udemylearning\unreal engine\ue4-battletank\battletank\source\battletank\public\Tank.h
+c:\users\tingleoncrack\desktop\udemylearning\unreal engine\ue4-battletank\battletank\source\battletank\public\TankAimingComponent.h
+c:\users\tingleoncrack\desktop\udemylearning\unreal engine\ue4-battletank\battletank\source\battletank\public\TankBarrel.h
+c:\users\tingleoncrack\desktop\udemylearning\unreal engine\ue4-battletank\battletank\intermediate\build\win64\ue4editor\inc\battletank\TankBarrel.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/CollisionProfile.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CollisionProfile.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+c:\program files\epic games\ue_4.22\engine\source\runtime\engine\classes\kismet\GameplayStaticsTypes.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
+c:\users\tingleoncrack\desktop\udemylearning\unreal engine\ue4-battletank\battletank\intermediate\build\win64\ue4editor\inc\battletank\TankAimingComponent.generated.h
 c:\users\tingleoncrack\desktop\udemylearning\unreal engine\ue4-battletank\battletank\intermediate\build\win64\ue4editor\inc\battletank\Tank.generated.h
 c:\users\tingleoncrack\desktop\udemylearning\unreal engine\ue4-battletank\battletank\intermediate\build\win64\ue4editor\inc\battletank\TankAIController.generated.h
